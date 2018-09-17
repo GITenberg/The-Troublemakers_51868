@@ -1,11 +1,14 @@
 _repo: The-Troublemakers_51868
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Francis, Dick
     alias: Francis, Richard D.
     gutenberg_agent_id: '33940'
     url: http://www.gutenberg.org/2009/agents/33940
+covers:
+- cover_type: archival
+  image_path: 51868-h/images/cover.jpg
 creator:
   author:
     agent_name: Smith, George O. (George Oliver)
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8137
     wikipedia: http://en.wikipedia.org/wiki/George_O._Smith
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51868#The-Troublemakers
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2016-04-26'
 gutenberg_type: Text
